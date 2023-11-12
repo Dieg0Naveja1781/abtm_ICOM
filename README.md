@@ -11,8 +11,14 @@ Espero poder mejorar mis habilidades y trabajar para construir un mejor futuro.
 > - Aprender y mejorar constantemente.
 
 ## Sobre mí
+![Monokuma!](https://media.tenor.com/o9p2N9FmJZwAAAAi/dance-moves-monokuma.gif)
+
+- Además de la informática, me apasiona el arte, la música y la literatura (aunque no soy experto en ninguno de esos temas).
 
 ### Experiencias que me han traido hasta aquí
+![mono!](https://media.tenor.com/ctr3Y-iq-JAAAAAi/monokuma-danganronpa.gif)
+<img align="right" width="100" height="100" src="https://media.tenor.com/CjQL-Z-YlJ8AAAAi/monokuma-danganronpa.gif">
+
 #### Robótica
   - En la secundaria me metí un pequeño curso de robótica. Usábamos pequeños robots y los programabamos para que hicieran diferentes cosas: Como seguir indicaciones, moverse libremente e incluso evitar obstáculos.
 
@@ -34,3 +40,7 @@ Espero poder mejorar mis habilidades y trabajar para construir un mejor futuro.
   - Una vez que estaba decidido a estudiar esta carrera, me inscribí en un curso gratuito de programación en Java Script.
 
     No lo completé, pero lo que aprendí, sumado a lo que entendía de programación, me sirvieron como base a la hora de estudiar esta Ingeniería.
+
+<p align="center">
+  <img width="600" height="200" src="https://media.tenor.com/Zr37Q9RrEyQAAAAC/flowey-undertale.gif">
+</p>
