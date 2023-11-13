@@ -15,7 +15,17 @@ Espero poder mejorar mis habilidades y trabajar para construir un mejor futuro.
 
 - Además de la informática, me apasiona el arte, la música y la literatura (aunque no soy experto en ninguno de esos temas).
 
+- Vengo de una familia de panaderos. Desde hace un iempo les ayudo en el negocio familiar y actualmente es mi trabajo.
+
+- En mis tiempos libres suelo ver series, películas o jugar videojuegos (lo típico).
+
+- Me gusta viajar y planeo visitar algunos paises del mundo
+
 ### Experiencias que me han traido hasta aquí
+
+<p align="center">
+  <img width="100" height="100" src="https://media.tenor.com/jXwFHN1tXcUAAAAi/run-apple-run.gif">
+</p>
 
 #### Robótica
   - En la secundaria me metí un pequeño curso de robótica. Usábamos pequeños robots y los programabamos para que hicieran diferentes cosas: Como seguir indicaciones, moverse libremente e incluso evitar obstáculos.
